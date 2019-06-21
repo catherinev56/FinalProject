@@ -1,5 +1,5 @@
 html{
-  background-color: pink
+  background-image: linear-gradient(red, yellow);
 }
 
 .centerText{
