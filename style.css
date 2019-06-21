@@ -1,0 +1,71 @@
+html{
+  background-color: pink
+}
+
+.centerText{
+  text-align: center
+}
+
+#title{
+  color:   #FF5733 
+}
+
+#container{
+  margin-left: 32px;
+  display: flex;
+  justify-content: space-evenly
+}
+/* The hover element is telling the webpage that when a cursor hovers over a certain element, the cursor should turn into a pointer and the element should change color*/
+#projectText:hover{
+  cursor:  pointer;
+  color: #8F0EB2 
+}
+
+#techText:hover{
+  cursor:  pointer;
+  color: #8F0EB2
+}
+
+#projectList{
+  text-align: center;
+  margin-top: 12px
+}
+
+#techList{
+  text-align: center;
+  margin-top: 12px
+}
+
+.linkText{
+  color: #8F0EB2
+}
+
+#image1{
+    margin-left: 120px;
+  width: 200px;
+    height: 200px;
+    transform: rotate(90deg);
+}
+#image2{
+    margin-left: 50px;
+  width: 200px;
+    height: 200px;
+
+}
+#image3{
+    margin-left: 50px;
+  width: 150px;
+    height: 200px;
+
+}
+#image4{
+    margin-left: 50px;
+  width: 150px;
+    height: 200px;
+
+}#image5{
+    margin-left: 50px;
+  width: 150px;
+    height: 200px;
+
+}
